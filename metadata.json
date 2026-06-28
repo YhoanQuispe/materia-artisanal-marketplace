@@ -1,0 +1,6 @@
+{
+  "name": "Materia - Artisanal Marketplace",
+  "description": "An elegant, high-end editorial marketplace connecting heritage makers with conscious collectors, featuring premium ceramics, textiles, and woodwork.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

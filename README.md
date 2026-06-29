@@ -1,5 +1,7 @@
 # Materia — Artisanal Marketplace
 
+![Node.js CI](https://github.com/YhoanQuispe/materia-artisanal-marketplace/actions/workflows/ci.yml/badge.svg)
+
 > *Connecting heritage makers with conscious collectors. An elegant, high-end editorial gallery celebrating premium handmade ceramics, organic textiles, and hand-carved woodwork.*
 
 ---
